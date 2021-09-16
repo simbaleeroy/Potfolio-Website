@@ -54,9 +54,9 @@ body {
     color: white;
 }
 
-.c_plus_plus {width: 55%; background-color: #2196F3; border-radius: 10px;} /* Blue */
-.html {width: 60%; background-color: #04AA6D; border-radius: 10px;} /* Green */
-.js {width: 40%; background-color: #f44336; border-radius: 10px;} /* Red */
+.c_plus_plus {width: 30%; background-color: #2196F3; border-radius: 10px;} /* Blue */
+.html {width: 55%; background-color: #04AA6D; border-radius: 10px;} /* Green */
+.js {width: 30%; background-color: #f44336; border-radius: 10px;} /* Red */
 .css {width: 45%; background-color: #808080; border-radius: 10px;} /* Dark Grey */
 
 .about_section {
