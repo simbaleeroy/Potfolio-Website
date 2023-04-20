@@ -58,8 +58,8 @@ body {
 .html {width: 20%; background-color: #04AA6D; border-radius: 10px;} /* Green */
 .js {width: 50%; background-color: #f44336; border-radius: 10px;} /* Red */
 .css {width: 99%; background-color: #808080; border-radius: 10px;} /* Dark Grey */
-.python {width: 99%; background-color: gold; border-radius: 10px;} 
-.java {width: 65%; background-color: yellow; border-radius: 10px;} 
+.python {width: 99%; background-color: #FFD700; border-radius: 10px;} 
+.java {width: 65%; background-color: #800080; border-radius: 10px;} 
 
 .about_section {
     padding:  2% 10% 2% 10%;
